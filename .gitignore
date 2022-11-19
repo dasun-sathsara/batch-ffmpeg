@@ -1,6 +1,7 @@
 # test video files
 test/
-
+app copy/src
+app copy/dst
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
